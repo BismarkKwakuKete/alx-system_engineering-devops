@@ -1,2 +1,1 @@
-#!/bin/bash
-This is the directory which will contain my tasks for this project
+script that prints the absolute path name of the current working directory.
